@@ -58,6 +58,8 @@ yarn-debug.log*
 yarn-error.log*
 
 blog_plan.md
+blog_plan
+
 env
 .env
 

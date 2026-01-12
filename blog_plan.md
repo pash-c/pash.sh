@@ -1,7 +1,7 @@
 # Plan: Add Hakyll Blog to website/
 
 ## Goal
-Set up a full-featured Hakyll blog in `website/` with all features from `mazzo.li/site.hs`:
+Set up a full-featured Hakyll blog in `website/` with all features from site.hs:
 - KaTeX math rendering
 - Literate Haskell support (.lhs files)
 - RSS/Atom feeds
