@@ -94,3 +94,9 @@ lerna-debug.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Hakyll (for when you add the blog)
+_site/
+_cache/
+dist-newstyle/
+.stack-work/
